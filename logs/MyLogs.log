@@ -1,0 +1,15 @@
+[TRACE] 2019-05-09 14:32:19.604 [main] assignment2 - trace message.
+[INFO ] 2019-05-09 14:32:19.608 [main] assignment2 - info message.
+[ERROR] 2019-05-09 14:32:19.608 [main] assignment2 - error message.
+[WARN ] 2019-05-09 14:32:19.608 [main] assignment2 - warn message.
+[FATAL] 2019-05-09 14:32:19.608 [main] assignment2 - fatal message.
+[TRACE] 2019-05-09 14:32:25.976 [main] assignment2 - trace message.
+[INFO ] 2019-05-09 14:32:25.979 [main] assignment2 - info message.
+[ERROR] 2019-05-09 14:32:25.979 [main] assignment2 - error message.
+[WARN ] 2019-05-09 14:32:25.979 [main] assignment2 - warn message.
+[FATAL] 2019-05-09 14:32:25.980 [main] assignment2 - fatal message.
+[TRACE] 2019-05-09 15:08:41.967 [main] assignment2 - trace message.
+[INFO ] 2019-05-09 15:08:41.970 [main] assignment2 - info message.
+[ERROR] 2019-05-09 15:08:41.971 [main] assignment2 - error message.
+[WARN ] 2019-05-09 15:08:41.971 [main] assignment2 - warn message.
+[FATAL] 2019-05-09 15:08:41.971 [main] assignment2 - fatal message.
